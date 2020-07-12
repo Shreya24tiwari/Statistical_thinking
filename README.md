@@ -12,6 +12,7 @@ using that final number and find the COVARIANCE.
 If the answer is POSITIVE so I notice that company X and Y are good to buy any product, And If the answer is negative Products are not good to buy.
 ### BINOMIAL DISTRIBUTION ##########
 The binomial distribution model allows us to compute the probability of observing a specified number of "successes" when the process is repeated a specific number of times (e.g., in a set of patients) and the outcome for a given patient is either a success or a failure.
+EXAMPLE: IF WE WANT TO FIND PATIENT OPERATION "SUCCESS" OR "NOT". SO FOR THAT OUR "SUCCESS" AND "FAIL" DATA IS DEPENDENT VARIABLE AND PATIENT'S PAST DETAILS(PATIENT AGE,GENDER,WORK LIFE,WEIGHT ETC...)IS OUR INDEPENDENT VARIABLE.THAT'S HOW BINOMIAL DISTRIBUTION WORK.
 IN Another Example: If I want to see in JUNK_FOOD_VS_HEALTHY_FOOD Project What type of JUNK_FOOD(BURGERS AND FRIES,PIZZA,HARDIES,ALL OF THE ABOVE) prefered by GENDER. IN THIS CASE MY DEPENDENT VARIABLE IS GENDER OR IS CATEGORICAL
 VARIABLE AND OUR INDEPENDENT VARIABLE IS TYPE OF JUNK_FOOD(BURGERS AND FRIES,PIZZA,HARDIES,ALL OF THE ABOVE). AND WE GOT SOME DATA THAT HOW MUCH LIKE JUNK_FOOD GENDER ARE.
 
