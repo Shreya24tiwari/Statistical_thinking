@@ -29,3 +29,8 @@ Polynomial basically fits a wide range of curvature.
 ### R Square | COEFFICIENT OF DETERMINATION  ####
 R-squared (R2) is a statistical measure that represents the proportion of the variance for a dependent variable that's explained by an independent variable or variables in a regression model. ... It may also be known as the coefficient of determination.
 It is important to know how well the relationship between the values of the x- and y-axis is, if there are no relationship the polynomial regression can not be used to predict anything. The relationship is measured with a value called the r-squared. The r-squared value ranges from 0 to 1, where 0 means no relationship, and 1 means 100% related.
+
+########## JUNK_FOOD_VS_HEALTHY_FOOD #######################
+IN THIS PROJECT I GO WITH SOME DATA. I COLLECT THE DATA WITH GOOGLE QUESTIONNAIRES. QUESTIONS IS ALL ABOUT HOW OFTEN DO YOU EAT JUNK FOOD IN A WEEK, HOW OFTEN DO YOU EAT HEALTHY 
+FOOD IN A WEEK, HOW DO YOU CONSIDER HEALTHY FOOD IS (LOW FAT FOOD, LOW CALORIES,FOOD THAT MAKE YOU ENERGETIC AND FIT AT THE SAME TIME,ALL OF THE ABOVE),WHAT KIND OF JUNK_FOOD DO YOU EAT(BURGERS AND FRIES,PIZZA,HARDIES,ALL OF THE ABOVE),WHAY DO YOU EAT HEALTHY FOOD,AT WHAT TIME YOU EAT JUNK FOOD OR HEALTHY FOOD,DO YOU CHEAK THE NUTRIENT FACT LABEL IN THE 
+JUNK FOOD,DO YOU CHECK THE JUNK FOOD QUALITY.
