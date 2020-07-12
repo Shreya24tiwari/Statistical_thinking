@@ -17,3 +17,12 @@ VARIABLE AND OUR INDEPENDENT VARIABLE IS TYPE OF JUNK_FOOD. AND WE GOT SOME DATA
 
 In statistics, a Poisson distribution is a statistical distribution that shows how many times an event is likely to occur within a specified period of time. It is used for independent events which occur at a constant rate within a given interval of time.
 The Poisson distribution is a discrete function, meaning that the event can only be measured as occurring or not as occurring, meaning the variable can only be measured in whole numbers either 0 or 1.
+### POLYNOMIAL REGRESSION ###
+IF THE DATA IS NOT FIT ON THE LINE THAN WE USE POLYNOMIAL REGRESSION
+LINEAR REGRESSION : Y = B0 + B1X1
+MULTIPLE LINEAR REGRESSION : Y = B0 + B1X1 + B2X2 + ... + BnXn
+POLYNOMIAL REGRESSION : Y = B0 + B1X1 + B2(X1)2 + ... + Bn(X1)n
+In polynomial regression, you try to find the coefficients of a polynomial of a specific degree that best fits the data. Linear regression is the special case where . Linear regression is linear in the parameters, not the covariates. You can make any transformations you want of them and still have a linear model.
+Polynomial provides the best approximation of the relationship between the dependent and independent variable.
+A Broad range of function can be fit under it.
+Polynomial basically fits a wide range of curvature.
