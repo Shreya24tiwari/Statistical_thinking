@@ -12,3 +12,8 @@ If the answer is POSITIVE so I notice that company X and Y are good to buy any p
 The binomial distribution model allows us to compute the probability of observing a specified number of "successes" when the process is repeated a specific number of times (e.g., in a set of patients) and the outcome for a given patient is either a success or a failure.
 IN Another Example: If I want to see in JUNK_FOOD_VS_HEALTHY_FOOD Project What type of JUNK_FOOD prefered by GENDER. IN THIS CASE MY DEPENDENT VARIABLE IS GENDER OR IS CATEGORICAL
 VARIABLE AND OUR INDEPENDENT VARIABLE IS TYPE OF JUNK_FOOD. AND WE GOT SOME DATA THAT HOW MUCH LIKE JUNK_FOOD GENDER ARE.
+
+###  POISSON DISTRIBUTION  ####
+
+In statistics, a Poisson distribution is a statistical distribution that shows how many times an event is likely to occur within a specified period of time. It is used for independent events which occur at a constant rate within a given interval of time.
+The Poisson distribution is a discrete function, meaning that the event can only be measured as occurring or not as occurring, meaning the variable can only be measured in whole numbers either 0 or 1.
