@@ -28,3 +28,4 @@ A Broad range of function can be fit under it.
 Polynomial basically fits a wide range of curvature.
 ### R Square | COEFFICIENT OF DETERMINATION  ####
 R-squared (R2) is a statistical measure that represents the proportion of the variance for a dependent variable that's explained by an independent variable or variables in a regression model. ... It may also be known as the coefficient of determination.
+It is important to know how well the relationship between the values of the x- and y-axis is, if there are no relationship the polynomial regression can not be used to predict anything. The relationship is measured with a value called the r-squared. The r-squared value ranges from 0 to 1, where 0 means no relationship, and 1 means 100% related.
