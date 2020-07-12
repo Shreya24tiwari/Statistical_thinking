@@ -20,6 +20,8 @@ VARIABLE AND OUR INDEPENDENT VARIABLE IS TYPE OF JUNK_FOOD(BURGERS AND FRIES,PIZ
 
 In statistics, a Poisson distribution is a statistical distribution that shows how many times an event is likely to occur within a specified period of time. It is used for independent events which occur at a constant rate within a given interval of time.
 The Poisson distribution is a discrete function, meaning that the event can only be measured as occurring or not as occurring, meaning the variable can only be measured in whole numbers either 0 or 1.
+### EXAMPLE OF POISSON DISTRIBUTION: IF 55 PEOPLE ARRIVE FIRST HOUR IS INDEPENDENT AND THE OTHERS WHO ARRIVE ANY OTHER HOUR IS DEPENDENT.
+IF the number of people who arrive in the first hour is independent of the number who arrive in any other hour
 ### POLYNOMIAL REGRESSION ###
 IF THE DATA IS NOT FIT ON THE LINE THAN WE USE POLYNOMIAL REGRESSION
 ### LINEAR REGRESSION : Y = B0 + B1X1
