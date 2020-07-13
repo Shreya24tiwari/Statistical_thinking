@@ -21,7 +21,11 @@ Example(3): IF I WANT TO CHECK A PRODUCT QUALITY, SO I CHOOSE 5 RANDOM SAMPLE AN
 The probability that an event occurs in a given time, distance, area, or volume is the same. Each event is independent of all other events.
 In statistics, a Poisson distribution is a statistical distribution that shows how many times an event is likely to occur within a specified period of time. It is used for independent events which occur at a constant rate within a given interval of time.
 The Poisson distribution is a discrete function, meaning that the event can only be measured as occurring or not as occurring, meaning the variable can only be measured in whole numbers either 0 or 1.
+### IN POISSON DISTRIBUTION THERE HAS NO N VALUES, OUR QUESTONS IS LIKE HOW MY FRAUD COMPANIES ARE THERE, HOW MANY PRODUCT CUSTOMER ARE THERE.
 ### EXAMPLE OF POISSON DISTRIBUTION: IF 55 PEOPLE ARRIVE FIRST HOUR IS INDEPENDENT AND THE OTHERS WHO ARRIVE ANY OTHER HOUR IS DEPENDENT.IF the number of people who arrive in the first hour is independent of the number who arrive in any other hour
+Example(3):NEAXT MONTH HOW MANY PEOPLE PAY BILL, HOW MUCH ERROR I ACCURED IN THIS CODE.
+
+### DIFFERENCE BETWEEN BINOMIAL AND POISSON: The main difference between Binomial and Poisson Distribution is that the Binomial distribution is only for a certain frame or a probability of success and the Poisson distribution is used for events that could occur a very large number of times.
 
 ### POLYNOMIAL REGRESSION ###
 IF THE DATA IS NOT FIT ON THE LINE THAN WE USE POLYNOMIAL REGRESSION
